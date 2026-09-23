@@ -3,7 +3,7 @@
  * Copyright © Magefan (support@magefan.com). All rights reserved.
  * Please visit Magefan.com for license details (https://magefan.com/end-user-license-agreement).
  */
-declare(strict_types=1);
+declare(strict_types=1);hhhhhhhhhhhhhhhhhhh
 
 namespace Magefan\BlogGraphQl\Model\Tags;
 
